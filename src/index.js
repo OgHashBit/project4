@@ -107,13 +107,11 @@ function App() {
         </Suspense>
       </Canvas>
       <h1>
-        three
+        DiamondBIT
         <br />
-        zero
-        <br />
-        seven.
+        Evolution is here!
       </h1>
-      <a href="https://github.com/drcmda/react-three-fiber">Github</a>
+      <a href="rarible.com">BUY HERE</a>
     </>
   )
 }
