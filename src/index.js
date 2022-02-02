@@ -6,7 +6,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader"
 import BackfaceMaterial from "./backface-material"
 import RefractionMaterial from "./refraction-material"
 import diamondUrl from "./assets/diamond.glb"
-import textureUrl from "./assets/233.jpg"
+import textureUrl from "./assets/og.jpeg"
 import "./styles.css"
 
 function Background() {
@@ -108,8 +108,6 @@ function App() {
       </Canvas>
       <h1>
         DiamondBIT
-        <br />
-        Evolution is here!
       </h1>
       <a href="rarible.com">BUY HERE</a>
     </>
